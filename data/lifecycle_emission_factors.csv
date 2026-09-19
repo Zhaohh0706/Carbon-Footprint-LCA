@@ -1,8 +1,0 @@
-technology,description,construction,fuel_supply,operation,decommission,total_median,range_low,range_high
-Coal,Subcritical/Supercritical Pulverized Coal,1.0,27.0,820.0,1.0,820.0,740.0,910.0
-Natural Gas (CCGT),Combined Cycle Gas Turbine,1.0,67.0,410.0,0.5,490.0,410.0,650.0
-Solar PV (Utility),"Crystalline Silicon, Utility-Scale",33.0,0.0,3.0,5.0,41.0,18.0,73.0
-Wind Onshore,Onshore Wind Turbine,7.0,0.0,3.0,1.0,11.0,7.0,56.0
-Wind Offshore,Offshore Wind Turbine,8.0,0.0,4.0,1.0,12.0,8.0,35.0
-Nuclear,Gen III Light Water Reactor,1.0,8.0,0.0,3.0,12.0,5.0,22.0
-Hydropower,Reservoir Hydropower,17.0,0.0,3.0,4.0,24.0,6.0,147.0
